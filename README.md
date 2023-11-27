@@ -1,8 +1,8 @@
-# callbackMNIST
+# MNIST Classifier with TensorFlow
 
 ## Load and Preprocess Data
 
-The script loads the MNIST dataset, discards the test set, and normalizes pixel values.
+This project implements a simple MNIST classifier using TensorFlow and Keras. The goal is to train a neural network to achieve 99% accuracy on the MNIST dataset.
 
 ## Define Callback
 
