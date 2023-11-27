@@ -1,4 +1,4 @@
-# MNIST Classifier with TensorFlow
+# MNIST Classifier with TensorFlow - Coursera Week 2 Assignment
 
 Implementing a machine learning model using TensorFlow and Keras to classify handwritten digits from the MNIST dataset.
 
