@@ -17,7 +17,3 @@ A custom callback, myCallback, is implemented to monitor training and halt the p
 ## Train the Model
 
 The model architecture includes a flattened input layer, a dense hidden layer with ReLU activation, and an output layer with softmax activation. The model is compiled with the Adam optimizer and sparse categorical crossentropy loss. Training occurs for 9 epochs, with the custom callback ensuring early stopping if the accuracy threshold is met.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
